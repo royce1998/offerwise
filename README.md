@@ -15,6 +15,13 @@ offer that actually leaves you with the most.
 
 ![OfferWise](https://img.shields.io/badge/live-royce1998.github.io%2Fofferwise-18b866) ![license](https://img.shields.io/badge/license-MIT-blue) ![built with](https://img.shields.io/badge/React%20+%20Vite%20+%20TS-informational)
 
+[![OfferWise screenshot](docs/screenshot.png)](https://royce1998.github.io/offerwise/)
+
+> In the demo above, a **$1.97M** BigTech offer in San Francisco (40.8% effective
+> tax) actually _loses_ to a **$1.95M** startup offer in Austin (25.5% tax) once
+> cost-of-living and taxes are applied — the startup nets far more real value.
+> **That flip is the whole point of OfferWise.**
+
 ---
 
 ## Why this exists (the levels.fyi insight)
